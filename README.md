@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim Mohamed</h1>
 <h3 align="center">A passionate Backend developer from Egypt 🇪🇬</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowmoe17" alt="slowmoe17" /></a> </p>
-
 - 🔭 I’m currently working on [LA Reserve](https://github.com/ghtco/lareserves)
 
 - 🌱 I’m currently learning **React , Data structure**
@@ -28,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowmoe17&show_icons=true&locale=en&layout=compact" alt="slowmoe17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slowmoe17&" alt="slowmoe17" /></p>
-
