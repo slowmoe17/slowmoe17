@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Selim Mohamed</h1>
 <h3 align="center">A passionate Backend developer from Egypt 🇪🇬</h3>
 
-- 🔭 I’m currently working on [LA Reserve](https://github.com/ghtco/lareserves)
+- 🔭 I’m currently working on [Movenw](https://github.com/ghtco/lareserves)
 
-- 🌱 I’m currently learning **React , Data structure**
+- 
 
-- 🔭I’m currently Updating on [We Care Insurance](https://github.com/ghtco/wecare)
+- 🔭I’m currently Updating on A French Transportaion App[Kiro Travel](https://github.com/ghtco/wecare)
 
-- 🤝 I’m Finished for Project For Toshiba Alaraby Authorised Reseller & Maintanince [AL Khattab Center](https://github.com/ghtco/alkhattab-center)
+- 🤝 I Finished About 5 Mega Projects
 
-- 💬 Ask me about **Django , Js**
+- 💬 Ask me about **Django , Python**
 
 - 📫 How to reach me **selim@ght-egy.com**
 
