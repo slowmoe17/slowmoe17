@@ -1,16 +1,4 @@
 <h1 align="center">Hi 👋, I'm Selim Mohamed</h1>
-<h3 align="center">A passionate Backend developer from Egypt 🇪🇬</h3>
-
-- 🔭 I’m currently working on [Movenw]( https://github.com/ghtco/movnw-backend)
-
-
-- 🔭I’m currently Updating on A French Transportaion App [Kiro Travel](https://github.com/slowmoe17/kiro-travel)
-
-- 🤝 I Finished About 5 Mega Projects
-
-- 💬 Ask me about **Django , Python**
-
-- 📫 How to reach me **selim@ght-egy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
